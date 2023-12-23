@@ -8,7 +8,7 @@
 <br />
 <div align="center">
   <a href="image of TIS">
-    <img src="https://s40424.pcdn.co/in/wp-content/uploads/2022/07/info-systems.jpg.optimal.jpg" alt="Logo" width="600" height="400">
+    <img src="https://media.giphy.com/media/Y7xSJvcLPsjLG3iJEX/giphy.gif"alt="Logo" width="600" height="400">
   </a>
   <br />
   <br />
