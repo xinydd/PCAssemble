@@ -8,7 +8,9 @@
 <br />
 <div align="center">
   <a href="image of pcpic1">
+     <img src="https://github.com/xinydd/PCAssemble/assets/147911566/cb792be8-cfa7-4869-8f59-77971a10853a"alt="Logo" width="400" height="400">
     <img src="https://github.com/xinydd/PCAssemble/assets/147911566/a87c3a64-4269-4e10-8e7b-8701278f8d8d"alt="Logo" width="400" height="400">
+    <img src ="
   </a>
   </div>
   <br />
