@@ -1,6 +1,3 @@
-
-<a name="lab"></a>
-
 <!--title-->
 <h1 align = "center">PC Assemble</h1>
 
