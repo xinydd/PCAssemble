@@ -23,13 +23,13 @@ PC Assemble is one of the lab work in the course SECP1513 Technology & Informati
     <br />
     <br />
   <h2>Personal Reflections and Thoughts</h2>
-The PC assembly lab exercise was an insightful experience, offering me a practical understanding of computer hardware components. The main objective of the lab was to assemble a fully functional PC from individual components and also reassamble it. I have gained a comprehensive understanding of the roles of different hardware elements and the step-by-step process of assembling and reassembling a computer. With the guidance of Dr. Muhammad Iqbal Tariq and some lab assistants, I reassembled the PC with the following steps:</br> 
+The PC assembly lab exercise was an insightful experience, offering me a practical understanding of computer hardware components. The main objective of the lab was to assemble a fully functional PC from individual components and also reassamble it. I have gained a comprehensive understanding of the roles of different hardware elements and the step-by-step process of assembling and reassembling a computer. With the guidance of Dr. Muhammad Iqbal Tariq and some lab assistants, I reassembled the PC with the following steps:</br></br>
 1. Open case</br>
 2. Disconnect cables</br>
 3. Take out power supply</br>
 4. Take out RAM</br>
 5. Take out HDD</br>
 6. Take out CPU Fan</br></br>
-After that, we assembled it back and checked if our PC can be switched on. Fortunately, it was switched on successfully.The lab exercise significantly enhanced my comprehension of computer hardware. The hands-on experience exposed me to various tools and techniques used in PC assembly. In conclusion, the PC assembly lab was an enriching experience that bridged the gap between theory and practice. 
+After that, we assembled it back and checked if our PC can be switched on. Fortunately, it was switched on successfully. The lab exercise significantly enhanced my comprehension of computer hardware. The hands-on experience exposed me to various tools and techniques used in PC assembly. In conclusion, the PC assembly lab was an enriching experience that bridged the gap between theory and practice. 
 
 
