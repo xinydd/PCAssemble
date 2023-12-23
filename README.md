@@ -1,4 +1,4 @@
-# PC Assemble
+
 <a name="lab"></a>
 
 <!--title-->
@@ -7,8 +7,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="image of TIS">
-    <img src="https://static.wixstatic.com/media/de0893_07b9d22b67c4497e8b6e0a33b441331b~mv2.gif"alt="Logo" width="400" height="300">
+  <a href="image of pcpic1">
+    <img src="https://github.com/xinydd/PCAssemble/assets/147911566/a87c3a64-4269-4e10-8e7b-8701278f8d8d"alt="Logo" width="400" height="400">
   </a>
   </div>
   <br />
