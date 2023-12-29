@@ -27,6 +27,6 @@ The PC assembly lab exercise was an insightful experience, offering me a practic
 4. Take out RAM</br>
 5. Take out HDD</br>
 6. Take out CPU Fan</br></br>
-After that, we assembled it back and checked if our PC can be switched on. Fortunately, it was switched on successfully. The lab exercise significantly enhanced my comprehension of computer hardware. The hands-on experience exposed me to various tools and techniques used in PC assembly. In conclusion, the PC assembly lab was an enriching experience that bridged the gap between theory and practice. 
+After that, we assembled it back and checked if our PC can be switched on. Fortunately, it was switched on successfully. The lab exercise significantly enhanced my comprehension of computer hardware. The hands-on experience exposed me to various tools and techniques used in PC assembly. In conclusion, the PC assembly lab was an enriching experience that bridged the gap between theory and practice. I hope I would have more chances to attend lab activity in the future.
 
 
